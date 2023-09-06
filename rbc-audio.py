@@ -10,7 +10,7 @@ import os
 import time
 from pygame import mixer
 
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "************************************************"
 
 
 def play(s) :
