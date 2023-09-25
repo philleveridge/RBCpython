@@ -1,7 +1,7 @@
 # RBCpython
 RobbuilderController in Python for RPi
 
-This is an attempt to build a robot controller of Robobuilder in Python
+This is an attempt to build a robot controller of Robobuilder in Python. It requires RPI connected with an extension board to interface to the Robobuilder Huno huimanoid robot.
 
 <b>Main module</b>
 <li>rbcontroller  Main loop
